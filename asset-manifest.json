@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Recipe_App/static/css/main.6cfa15ad.chunk.css",
+    "main.js": "/Recipe_App/static/js/main.1fe16ff6.chunk.js",
+    "main.js.map": "/Recipe_App/static/js/main.1fe16ff6.chunk.js.map",
+    "runtime-main.js": "/Recipe_App/static/js/runtime-main.73a30cca.js",
+    "runtime-main.js.map": "/Recipe_App/static/js/runtime-main.73a30cca.js.map",
+    "static/js/2.c1394f55.chunk.js": "/Recipe_App/static/js/2.c1394f55.chunk.js",
+    "static/js/2.c1394f55.chunk.js.map": "/Recipe_App/static/js/2.c1394f55.chunk.js.map",
+    "index.html": "/Recipe_App/index.html",
+    "precache-manifest.cee5a9f392cb96da194ff3dd648fee4d.js": "/Recipe_App/precache-manifest.cee5a9f392cb96da194ff3dd648fee4d.js",
+    "service-worker.js": "/Recipe_App/service-worker.js",
+    "static/css/main.6cfa15ad.chunk.css.map": "/Recipe_App/static/css/main.6cfa15ad.chunk.css.map",
+    "static/js/2.c1394f55.chunk.js.LICENSE.txt": "/Recipe_App/static/js/2.c1394f55.chunk.js.LICENSE.txt",
+    "static/media/blackHeartIcon.svg": "/Recipe_App/static/media/blackHeartIcon.b8913346.svg",
+    "static/media/dice-svgrepo-com.svg": "/Recipe_App/static/media/dice-svgrepo-com.17d4af50.svg",
+    "static/media/drinkIcon.svg": "/Recipe_App/static/media/drinkIcon.f87c47c3.svg",
+    "static/media/drinks-bottles-svgrepo-com.svg": "/Recipe_App/static/media/drinks-bottles-svgrepo-com.84639ddb.svg",
+    "static/media/exploreIcon.svg": "/Recipe_App/static/media/exploreIcon.157945ff.svg",
+    "static/media/ingredients-svgrepo-com.svg": "/Recipe_App/static/media/ingredients-svgrepo-com.d5adcf9d.svg",
+    "static/media/mealIcon.svg": "/Recipe_App/static/media/mealIcon.b27ba19e.svg",
+    "static/media/profileIcon.svg": "/Recipe_App/static/media/profileIcon.74e487e5.svg",
+    "static/media/searchIcon.svg": "/Recipe_App/static/media/searchIcon.db812135.svg",
+    "static/media/shareIcon.svg": "/Recipe_App/static/media/shareIcon.06215ed4.svg",
+    "static/media/whiteHeartIcon.svg": "/Recipe_App/static/media/whiteHeartIcon.ea3b6ba8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73a30cca.js",
+    "static/js/2.c1394f55.chunk.js",
+    "static/css/main.6cfa15ad.chunk.css",
+    "static/js/main.1fe16ff6.chunk.js"
+  ]
+}
